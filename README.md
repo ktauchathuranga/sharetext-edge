@@ -1,6 +1,6 @@
-# ShareText Chrome Extension
+# ShareText Edge Extension
 
-**ShareText** is a Chrome extension that allows you to quickly generate QR codes for selected text or URLs from your browser.
+**ShareText** is a Microsoft Edge extension that allows you to quickly generate QR codes for selected text or URLs from your browser.
 
 ## Features
 
@@ -11,8 +11,8 @@
 
 ## How to Use
 
-1. Install the extension from the Chrome Web Store:  
-   [ShareText](https://chromewebstore.google.com/detail/sharetext/bkahniimimedceplohokcnajhdcoppkg)
+1. Install the extension from the Microsoft Edge Add-ons Store:  
+   [ShareText](https://microsoftedge.microsoft.com/addons/detail/sharetext/bkahniimimedceplohokcnajhdcoppkg)
    
 2. After installation, you can:
    - **Right-click on selected text** and choose **"Share this text as QR code"** from the context menu.
@@ -22,7 +22,7 @@
 
 ## Requirements
 
-- Google Chrome (any modern version).
+- Microsoft Edge (any modern version).
 
 ## License
 
