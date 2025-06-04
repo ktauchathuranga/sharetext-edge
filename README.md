@@ -9,6 +9,13 @@
 - Automatically handles special characters and encoding.
 - QR codes are generated directly in your browser in a popup window.
 
+## Screenshots
+
+![Screenshot From 2025-06-03 11-48-26](https://github.com/user-attachments/assets/303730b5-2c6d-491b-9617-c86666c3ca7f)
+![Screenshot From 2025-06-03 11-46-13](https://github.com/user-attachments/assets/b02c3b27-7b94-4ff9-add3-3e8c84c69990)
+![Screenshot From 2025-06-03 11-45-06](https://github.com/user-attachments/assets/ef22b32e-116d-48bc-ab14-dd62f74430b8)
+
+
 ## How to Use
 
 1. Install the extension from the Microsoft Edge Add-ons Store:  
