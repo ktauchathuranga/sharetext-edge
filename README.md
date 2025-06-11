@@ -19,7 +19,7 @@
 ## How to Use
 
 1. Install the extension from the Microsoft Edge Add-ons Store:  
-   [ShareText](https://microsoftedge.microsoft.com/addons/detail/sharetext/bkahniimimedceplohokcnajhdcoppkg)
+   [ShareText](https://microsoftedge.microsoft.com/addons/detail/ijkihgbomcmieehppdnpnkjocnhpddhb)
    
 2. After installation, you can:
    - **Right-click on selected text** and choose **"Share this text as QR code"** from the context menu.
